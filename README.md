@@ -45,7 +45,7 @@ This project is a decentralized peer-to-peer messaging application designed for 
 
 ## Usage
 1. Open the application in your browser.
-2. Register by obtaining a unique 15-digit identification number.
+2. Register by obtaining a unique 10-digit identification number.
 3. Exchange encryption keys with your contacts via Bluetooth or manually.
 4. Start secure communication with your contacts.
 5. Create or join decentralized groups for secure group communication.
