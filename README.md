@@ -26,7 +26,7 @@ This project is a decentralized peer-to-peer messaging application designed for 
 ## Installation
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/p2p-messaging-app.git
+    git clone https://github.com/shandilyaguy247/encrypted_chat.git
     cd p2p-messaging-app
     ```
 2. **Create a virtual environment:**
